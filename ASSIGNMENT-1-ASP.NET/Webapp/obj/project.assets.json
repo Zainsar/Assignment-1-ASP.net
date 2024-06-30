@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Ezbuytech\\.nuget\\packages\\": {}
+    "C:\\Users\\HP\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Webapp.csproj",
+      "projectUniqueName": "E:\\HP\\Documents\\GitHub\\Assignment-1-ASP.net\\ASSIGNMENT-1-ASP.NET\\Webapp\\Webapp.csproj",
       "projectName": "Webapp",
-      "projectPath": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\Webapp.csproj",
-      "packagesPath": "C:\\Users\\Ezbuytech\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ezbuytech\\OneDrive\\Desktop\\Asp.Net\\Webapp1\\Webapp\\obj\\",
+      "projectPath": "E:\\HP\\Documents\\GitHub\\Assignment-1-ASP.net\\ASSIGNMENT-1-ASP.NET\\Webapp\\Webapp.csproj",
+      "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
+      "outputPath": "E:\\HP\\Documents\\GitHub\\Assignment-1-ASP.net\\ASSIGNMENT-1-ASP.NET\\Webapp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Ezbuytech\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

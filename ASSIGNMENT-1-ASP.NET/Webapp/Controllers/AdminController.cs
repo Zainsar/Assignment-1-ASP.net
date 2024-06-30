@@ -139,13 +139,13 @@ namespace Webapp.Controllers
 
         public IActionResult Login(string email, string pass)
         {
-           if(email == "admin@gmail.com" && pass == "123")
+           if(email == "superadmin@gmail.com" && pass == "123456")
             {
                 HttpContext.Session.SetString("adminEmail", email);
                 HttpContext.Session.SetString("role", "admin");
                 return RedirectToAction("Index");
             }
-            else if(email == "user@gmail.com" && pass == "123")
+            else if(email == "zainsarfraz82@gmail.com" && pass == "123456")
             {
                 HttpContext.Session.SetString("userEmail", email);
                 HttpContext.Session.SetString("role", "user");
